@@ -7,7 +7,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       Persona persona1 = new Persona("Juan","Baena Ribón ");
+       Persona persona1 = new Persona("Juan","Baena Ribón");
        Persona persona2 = new Persona("Heidy","Pupo");
        Persona persona3 = new Persona("Julia Carolina","Baena");
        Persona persona4 = new Persona("Angie Paola","Baena");
