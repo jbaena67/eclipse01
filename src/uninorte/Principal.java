@@ -13,7 +13,7 @@ public class Principal {
        Persona persona4 = new Persona("Angie Paola","Baena");
        Persona persona5 = new Persona("Ivonne Lucía","Baena");
        LinkedList<Persona> listaAuxiliar = new LinkedList<Persona>();
-       listaAuxiliar.add(persona1);
+       listaAuxiliar.add(persona1); 
        listaAuxiliar.add(persona2);
        listaAuxiliar.add(persona3);
        listaAuxiliar.add(persona4);
